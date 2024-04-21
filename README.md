@@ -1,2 +1,0 @@
-# first_terraform_template
-first_terraform_template
